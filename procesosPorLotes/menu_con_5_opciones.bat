@@ -42,7 +42,6 @@ exit
 echo Creando los directorios alfredoff, marinapg y ramonam en este mismo directorio...
 mkdir alfredoff ramonam marinapg
 dir .
-rmdir ramonam alfredoff marinapg
 pause
 exit
 
